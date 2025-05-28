@@ -119,7 +119,7 @@ export default function BirthdayPage() {
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
           <div className="bg-gradient-to-br from-blue-500 to-blue-700 rounded-3xl p-8 max-w-md w-full text-center shadow-2xl border-4 border-white/20 animate-pulse">
             <div className="text-6xl mb-4">🎵</div>
-            <h3 className="text-2xl font-bold text-white mb-4">🎉 Let's Celebrate! 🎉</h3>
+            <h3 className="text-2xl font-bold text-white mb-4">🎉 Let&apos;s Celebrate! 🎉</h3>
             <p className="text-blue-100 mb-6 text-lg">
               Touch here to start the birthday music and make this celebration even more special! 💙
             </p>
@@ -213,7 +213,7 @@ export default function BirthdayPage() {
               smile and to love you more with each passing year.
             </p>
             <p className="text-2xl font-semibold text-white">
-              Happy Birthday, my love! Here's to another year of amazing adventures together! 🥳💙
+              Happy Birthday, my love! Here&apos;s to another year of amazing adventures together! 🥳💙
             </p>
           </div>
         </div>
